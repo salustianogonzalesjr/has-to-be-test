@@ -44,6 +44,12 @@ You can test the API endpoint using [Postman](https://www.postman.com/downloads/
 ![Screenshot](success.png)
 
 ## Screenshots
+Below are the validation screenshots
+
+![Screenshot](validation_1.png)
+![Screenshot](validation_2.png)
+![Screenshot](validation_3.png)
+![Screenshot](validation_4.png)
 
 ## Improvements
 Future enhancements 
