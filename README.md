@@ -40,7 +40,7 @@ You can test the API endpoint using [Postman](https://www.postman.com/downloads/
     }
 }
 ```
-- See screenshot for reference
+See screenshot for reference
 ![Screenshot](success.png)
 
 ## Screenshots
