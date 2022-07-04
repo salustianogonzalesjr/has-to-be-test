@@ -45,11 +45,16 @@ You can test the API endpoint using [Postman](https://www.postman.com/downloads/
 
 ## Screenshots
 Below are the validation screenshots
-
-![Screenshot](validation_1.png)
+- null values on `meterStart`, `timestampStart`, `timestampStop` paramters
 ![Screenshot](validation_2.png)
 ![Screenshot](validation_3.png)
+![Screenshot](validation_1.png)
+
+- `meterStop` is greater than `meterStart`
 ![Screenshot](validation_4.png)
+
+- `timestampStop` is less than `timestampStart`
+![Screenshot](validation_5.png)
 
 ## Improvements
 Future enhancements 
