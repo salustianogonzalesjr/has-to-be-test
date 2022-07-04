@@ -10,7 +10,7 @@
 ## How to Setup
 - clone the repo `https://github.com/salustianogonzalesjr/has-to-be-test.git`
 - cd to `has-to-be-test` and run `composer install`
-- setup your `.env` file
+- setup your `.env` file ( or just rename the `.env.example` to `.env`)
 - start default server `php -S localhost:8000 -t public`
 
 ## How to Test
